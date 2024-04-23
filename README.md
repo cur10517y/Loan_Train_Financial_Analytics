@@ -16,6 +16,8 @@ Data Overview:
     Property_Area: Area where the property is located.
     Loan_Status: Status of the loan approval (Y for approved, N for not approved).
 
-Task:
-    1. Perform hypothesis testing to analyze the impact of variables (e.g., Gender, LoanAmount) on loan approval rates.
-    2. Build machine learning models to predict loan approval status based on the given features.
+Tasks:
+
+    
+        1. Perform hypothesis testing to analyze the impact of variables (e.g., Gender, LoanAmount) on loan approval rates.
+        2. Build machine learning models to predict loan approval status based on the given features.
